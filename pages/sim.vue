@@ -1,7 +1,7 @@
 <template>
   <div>
     <body class="body_column">
-      <h1><v-icon>mdi-heart</v-icon>Eu tambem te amo e aceito casar com você<v-icon>mdi-heart</v-icon></h1>
+      <h1><v-icon>mdi-heart</v-icon>indo comer seu cu<v-icon>mdi-heart</v-icon></h1>
       <div>
           <img src="https://i.gifer.com/F8Hc.gif" class="coracao-andando">
       </div>

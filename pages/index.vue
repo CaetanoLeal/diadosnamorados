@@ -2,8 +2,10 @@
   <div>
     <img src="https://phoneky.co.uk/thumbs/screensavers/down/misc/dancinghea063213.gif" class="right-image">
     <img src="https://imagensemoldes.com.br/wp-content/uploads/2023/02/Flork-Coracao-Partido-PNG.png" class="left-image2">
+    <img src="https://imgb.ifunny.co/images/e59d680d68e1eb30a3ae8dc2f3ed08547fd1416213fb5a5e03c067acf33ce3c3_1.webp" class="right-image3">
+    <img src="https://i.pinimg.com/474x/00/86/5b/00865b83a46e642701519f16ca3c7efa.jpg" class="left-image4">
     <div class="body_column">
-      <h1><v-icon>mdi-heart</v-icon>Você aceita casar comigo?<v-icon>mdi-heart</v-icon></h1>
+      <h1><v-icon>mdi-heart</v-icon>cuzinho hoje?<v-icon>mdi-heart</v-icon></h1>
       <div class="yes-or-no button_row">
         <v-button class="yes" @click="acceptProposal">SIM<v-icon>mdi-heart</v-icon></v-button>
         <v-button class="no">NÃO!</v-button>
@@ -124,5 +126,17 @@ h1 {
   left: 0;
   top: 420px;
   width: 280px;
+}
+.right-image3 {
+  position: absolute;
+  right: 10px;
+  top: 400px;
+  width: 200px;
+}
+.left-image4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 200px;
 }
 </style>
